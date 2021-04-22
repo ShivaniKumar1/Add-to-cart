@@ -5,7 +5,7 @@ A simple bot that adds any product from a website to your cart. So far it will f
 
 # Requirements:
 - Python v3
-- Python module requests and jso
+- Python module requests and json
 - Selenium module webdriver and options
 
 # Usage:
